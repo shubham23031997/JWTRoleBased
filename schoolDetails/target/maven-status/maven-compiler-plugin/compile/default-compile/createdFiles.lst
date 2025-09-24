@@ -1,0 +1,14 @@
+com\crudOperation\schoolDetails\controller\SecurityConstructor.class
+com\crudOperation\schoolDetails\controller\StudentController.class
+com\crudOperation\schoolDetails\service\StudentService.class
+com\crudOperation\schoolDetails\SecurityConfiguration\JwtConfig.class
+com\crudOperation\schoolDetails\entity\Student.class
+com\crudOperation\schoolDetails\SecurityConfiguration\AuthController.class
+com\crudOperation\schoolDetails\SchoolDetailsApplication.class
+com\crudOperation\schoolDetails\controller\EmployeeController.class
+com\crudOperation\schoolDetails\entity\Employee.class
+com\crudOperation\schoolDetails\SecurityConfiguration\User.class
+com\crudOperation\schoolDetails\serviceImpl\StudentServiceImpl.class
+com\crudOperation\schoolDetails\repository\EmployeeRepo.class
+com\crudOperation\schoolDetails\repository\StudentRepository.class
+com\crudOperation\schoolDetails\SecurityConfiguration\SecurityConfig.class

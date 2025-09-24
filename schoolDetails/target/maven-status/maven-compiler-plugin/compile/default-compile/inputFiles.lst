@@ -1,0 +1,14 @@
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\controller\EmployeeController.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\controller\SecurityConstructor.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\controller\StudentController.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\entity\Employee.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\entity\Student.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\repository\EmployeeRepo.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\repository\StudentRepository.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\SchoolDetailsApplication.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\SecurityConfiguration\AuthController.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\SecurityConfiguration\JwtConfig.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\SecurityConfiguration\SecurityConfig.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\SecurityConfiguration\User.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\service\StudentService.java
+C:\Users\DELL\Downloads\schoolDetails\schoolDetails\src\main\java\com\crudOperation\schoolDetails\serviceImpl\StudentServiceImpl.java
